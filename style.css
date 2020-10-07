@@ -673,4 +673,7 @@ html{
     html{
         font-size: 45%;
     }
+    .header-text{
+        z-index: 200;
+    }
 }
